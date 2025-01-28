@@ -11,10 +11,10 @@ I am also a proud member of the **SKILLed AI Talent Academy**, which helps me co
 Here are some of the tools and technologies I work with:
 
 ![Python](https://img.shields.io/badge/-Python-blue)
-![Mainframe](https://img.shields.io/badge/-Mainframe-green)
+![Mainframe](https://img.shields.io/badge/-Mainframe-red)
 
 ## 🧩 Badges
-[![Credly](https://img.shields.io/badge/-Credly-orange)](https://www.credly.com/users/aronas-butkevicius)
+[![Credly](https://img.shields.io/badge/-Credly-green)](https://www.credly.com/users/aronas-butkevicius)
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AronasB&show_icons=true&theme=radical)
