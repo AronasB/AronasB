@@ -1,7 +1,7 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋
 
 ## 🌟 About Me
-Hi! I'm a passionate student of Artificial Intelligence, currently deepening my knowledge in the field. I am also gaining hands-on experience through an internship as a Software Engineer Intern at **Rocket**, where I am exploring mainframe technologies. 
+I'm a passionate student of Artificial Intelligence, currently deepening my knowledge in the field. I am also gaining hands-on experience through an internship as a Software Engineer Intern at **Rocket**, where I am exploring mainframe technologies. 
 
 I am also a proud member of the **SKILLed AI Talent Academy**, which helps me continuously sharpen my soft skills. Always looking for new challenges to expand my knowledge, I strive to make a meaningful impact through technology.
 
