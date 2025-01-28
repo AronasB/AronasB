@@ -13,6 +13,9 @@ Here are some of the tools and technologies I work with:
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![Mainframe](https://img.shields.io/badge/-Mainframe-green)
 
+## 🧩 Badges
+[![Credly](https://img.shields.io/badge/-Credly-orange)](https://www.credly.com/users/aronas-butkevicius)
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AronasB&show_icons=true&theme=radical)
 
@@ -20,4 +23,3 @@ Here are some of the tools and technologies I work with:
 Feel free to reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/aronas-butkevicius)
-[![Credly](https://img.shields.io/badge/-Credly-orange)](https://www.credly.com/users/aronas-butkevicius)
