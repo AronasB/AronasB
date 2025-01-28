@@ -5,7 +5,7 @@ I'm a passionate student of Artificial Intelligence, currently deepening my know
 
 I am also a proud member of the **SKILLed AI Talent Academy**, which helps me continuously sharpen my soft skills. Always looking for new challenges to expand my knowledge, I strive to make a meaningful impact through technology.
 
-- 🌱 Learning: **Machine Learning, Mainframe Systems, and Advanced AI Concepts**
+- 🌱 Learning: **Machine Learning, Mainframe Systems, and AI Concepts**
 
 ## 🛠️ Skills & Technologies
 Here are some of the tools and technologies I work with:
