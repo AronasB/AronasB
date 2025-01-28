@@ -14,7 +14,7 @@ Here are some of the tools and technologies I work with:
 ![Mainframe](https://img.shields.io/badge/-Mainframe-green)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AronasB&show_icons=true&theme=radical)
 
 ## 💬 Contact
 Feel free to reach out to me:
