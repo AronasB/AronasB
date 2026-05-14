@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineer I at Rocket**, working in the **mainframe environment**, primarily focused on **performance monitoring and analysis of Db2 systems on z/OS**.
+I'm a **Software Engineer II at Rocket**, working in the **mainframe environment**, primarily focused on **performance monitoring and analysis of Db2 systems on z/OS**.
 
 Through this role, I’ve been gaining hands-on experience with enterprise-scale systems and how complex, mission-critical platforms operate at scale. I’m also familiarizing myself with **HLASM** and the low-level inner workings of the mainframe, which gives me a strong system-level engineering perspective.
 
